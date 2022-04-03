@@ -183,24 +183,6 @@
       }
     }
   ],
-  "keranjangs": [
-    {
-      "jumlah": 4,
-      "total_harga": 40000,
-      "product": {
-        "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 1
-    }
-  ],
+  "keranjangs": [],
   "pesanans": []
 }
